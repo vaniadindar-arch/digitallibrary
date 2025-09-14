@@ -15,6 +15,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Cosmetic Dermatology for Skin Of Color](ebook/Cosmetic Dermatology for Skin Of Color.pdf) - Murad Alam dkk (2009)
 9. [A Princess of Mars](ebook/A Princess of Mars.pdf) - Edgar Rice Burroughs (1917)
 10. [The Old Man And The Sea](ebook/The Old Man And The Sea.pdf) - Ernest Hemingway (1952)
+11. [Resume VR](ebook/Resume VR.pdf) - Vania Dinda Ramadhani_13040123140118 (2025)
 ---
 
 *Powered by Github Pages*
