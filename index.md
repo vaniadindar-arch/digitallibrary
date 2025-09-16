@@ -18,7 +18,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 11. [Resume VR](ebook/Resume VR.pdf) - Vania Dinda Ramadhani_13040123140118 (2025)
     
 <br>
-<p><a ref="halaman1.html">Halaman 1</a>|
+<p><a ref="webti"halaman1.html">Halaman 1</a>|
 ---
 
 *Powered by Github Pages*
