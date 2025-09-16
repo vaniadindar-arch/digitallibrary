@@ -16,6 +16,9 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [A Princess of Mars](ebook/A Princess of Mars.pdf) - Edgar Rice Burroughs (1917)
 10. [The Old Man And The Sea](ebook/The Old Man And The Sea.pdf) - Ernest Hemingway (1952)
 11. [Resume VR](ebook/Resume VR.pdf) - Vania Dinda Ramadhani_13040123140118 (2025)
+    
+<br>
+<p><a ref="halaman1.html">Halaman 1</a>|
 ---
 
 *Powered by Github Pages*
