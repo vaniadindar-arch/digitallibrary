@@ -17,8 +17,14 @@ Berikut ini adalah Koleksi yang dimiliki:
 10. [The Old Man And The Sea](ebook/The Old Man And The Sea.pdf) - Ernest Hemingway (1952)
 11. [Resume VR](ebook/Resume VR.pdf) - Vania Dinda Ramadhani_13040123140118 (2025)
     
-<br>
-<p><a ref="webti"halaman1.html">Halaman 1</a>|
----
+<nav style="text-align:center; margin-bottom:20px;">
+  <a href="webti/halaman1.html">Halaman 1</a> |
+  <a href="webti/halaman2.html">Halaman 2</a> |
+  <a href="webti/halaman3.html">Halaman 3</a> |
+  <a href="webti/halaman4.html">Halaman 4</a> |
+  <a href="webti/halaman5.html">Halaman 5</a> |
+  <a href="webti/halaman6.html">Halaman 6</a> |
+  <a href="webti/halaman7.html">Halaman 7</a>
+</nav>
 
 *Powered by Github Pages*
